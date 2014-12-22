@@ -4,6 +4,10 @@
 
 裡面介紹 IPython 在資料分析的基礎、相關學習資源。
 
+### 用 IPython NBViwer 看筆記
+
+[IPython Notebbok 筆記](http://nbviewer.ipython.org/github/yenlung/Nano-Data-Analysis-with-IPython/blob/master/Nano%20Data%20Analysis%20with%20IPython.ipynb)
+
 ### 相關影片
 
 有興趣的朋友也可參考我在政大－成大聯合 "Nano Data Analysis with Python" 工作坊中的教學錄影。
